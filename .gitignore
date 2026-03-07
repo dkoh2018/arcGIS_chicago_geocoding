@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.env
+geocoding_meta.md
